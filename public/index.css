@@ -1,0 +1,19 @@
+canvas {
+	border: 1px solid black;
+}
+
+.btn-active {
+	border: 5px solid green;
+}
+
+.btns {
+	margin: 15px 0 0;
+}
+
+.invisible {
+	display: none;
+}
+
+.m-15 {
+	margin: 15px 0 0;
+}

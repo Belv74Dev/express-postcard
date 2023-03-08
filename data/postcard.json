@@ -1,0 +1,114 @@
+[
+	{
+		"id": "1",
+		"name": "День рождения",
+		"gender": "male",
+		"title": "C Днем\nРождения",
+		"text": "Поздравляем с Днем\nРождения, желаем\nСчастья, Здоровья, Успеха\nв делах!",
+		"background": "./assets/birthday-male.png",
+		"styles": {
+			"title": {
+				"size": "72px arial",
+				"color": "#ffcc80",
+				"lineHeight": 70,
+				"height": 100
+			},
+			"text": {
+				"size": "24px arial",
+				"color": "#ffffff",
+				"lineHeight": 30,
+				"height": 350
+			},
+			"name": {
+				"size": "24px arial",
+				"color": "#ffcc80",
+				"lineHeight": 30,
+				"height": 795
+			}
+		}
+	},
+	{
+		"id": "2",
+		"name": "День рождения",
+		"gender": "female",
+		"title": "C Днем\nРождения",
+		"text": "Поздравляем с Днем\nРождения, желаем\nСчастья, Здоровья, Успеха\nв делах!",
+		"background": "./assets/birthday-female.png",
+		"styles": {
+			"title": {
+				"size": "72px arial",
+				"color": "#795548",
+				"lineHeight": 70,
+				"height": 100
+			},
+			"text": {
+				"size": "24px arial",
+				"color": "#795548",
+				"lineHeight": 30,
+				"height": 520
+			},
+			"name": {
+				"size": "24px arial",
+				"color": "#795548",
+				"lineHeight": 30,
+				"height": 790
+			}
+		}
+	},
+	{
+		"id": "3",
+		"name": "23 февраля",
+		"gender": "male",
+		"title": "Настоящему\nМужчине",
+		"text": "Поздравляем с праздником\nСчастья, Здоровья, Успеха\nв делах!",
+		"background": "./assets/february-23.png",
+		"styles": {
+			"title": {
+				"size": "72px Microsoft Sans Serif",
+				"color": "#ffffff",
+				"lineHeight": 70,
+				"height": 100
+			},
+			"text": {
+				"size": "30px Microsoft Sans Serif",
+				"color": "#ffffff",
+				"lineHeight": 32,
+				"height": 500
+			},
+			"name": {
+				"size": "28px Microsoft Sans Serif",
+				"color": "#ffffff",
+				"lineHeight": 30,
+				"height": 790
+			}
+		}
+	},
+	{
+		"id": "4",
+		"name": "8 марта",
+		"gender": "female",
+		"title": "8\nМАРТА",
+		"text": "Поздравляем с праздником\nСчастья, Здоровья, Успеха\nв делах!",
+		"background": "./assets/march-8.png",
+		"styles": {
+			"title": {
+				"size": "72px arial",
+				"color": "#ffffff",
+				"lineHeight": 70,
+				"height": 220
+			},
+			"text": {
+				"size": "28px arial",
+				"color": "#ffffff",
+				"lineHeight": 32,
+				"height": 390
+			},
+			"name": {
+				"size": "28px arial",
+				"color": "#ffffff",
+				"lineHeight": 30,
+				"height": 580
+			}
+		}
+	}
+]
