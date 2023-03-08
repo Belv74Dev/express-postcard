@@ -1,4 +1,5 @@
 - git clone https://github.com/Belv74Dev/express-postcard
 - cd express-postcard
+- В папке public обязательно нужно создать папку "img" (она должна быть пустой, туда будут сохранятся сгенерированые изображения)
 - yarn
 - yarn dev
